@@ -1,4 +1,4 @@
-**📌 Project: Predicting Student Performance Using Multiple Linear Regression 🚀📊
+**📌 Project: Predicting Student Performance Using Multiple Linear Regression 🚀📊**
 📖 Overview:
 This project explores how study hours and previous academic scores influence a student's Performance Index using Multiple Linear Regression (MLR). The goal is to build a predictive model that helps analyze key factors impacting student success.
 
